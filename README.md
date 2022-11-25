@@ -7,3 +7,6 @@ I provide checkpoints for for two different sized models fine-tuned on CUAD: Mac
 
 ## Paperspace
 All notebooks are run through GPU cloud service provider Paperspace. With Gradient, you get access to a Jupyter Notebook instance backed by a GPU without any complicated configuration. Gradient is built on top of Paperspace, a GPU-accelerated cloud platform.
+
+To access the files in this project, use the following link:
+https://console.paperspace.com/hanskrio/notebook/ryennjugioo1qea
